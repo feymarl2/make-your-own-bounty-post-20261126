@@ -1,6 +1,6 @@
 # Make Your Own Bounty Post
 
-[![entry](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/feymarl2/make-your-own-bounty-post-20261126/entry.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01?utm_source=github&utm_medium=readme&utm_campaign=post-x-promote-make-your-own-bounty-01)
+[![make.fun · post-x-promote-make-your-own-bounty-01](https://make.fun/badge/post-x-promote-make-your-own-bounty-01.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01?utm_source=github&utm_medium=readme&utm_campaign=post-x-promote-make-your-own-bounty-01)
 [![rank](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/feymarl2/make-your-own-bounty-post-20261126/rank.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=post-x-promote-make-your-own-bounty-01)
 [![reward](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/feymarl2/make-your-own-bounty-post-20261126/reward.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01?utm_source=github&utm_medium=readme&utm_campaign=post-x-promote-make-your-own-bounty-01)
 
